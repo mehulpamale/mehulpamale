@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehulpamale
 - 👀 I’m interested in clean code & clean archtecture
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on how to implement clean architecture in react & looking for a monorepo template for react ts + firebase
+- 🌱 I've worked on flutter earlier & then moved to react js & again moved to flutter.
+- 💞️ I’m looking to collaborate on best practices for clean architecture & clean code.
 - 📫 How to reach me: mail me at mehulpamale@gmail.com
 
 <!---
