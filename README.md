@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehulpamale
 - 👀 I’m interested in clean code & clean archtecture
-- 🌱 I've worked on flutter earlier & then moved to react js & again moved to flutter.
+- 🌱 I've worked react earlier and currently working project based on flutter.
 - 💞️ I’m looking to collaborate on best practices for clean architecture & clean code.
 - 📫 How to reach me: mail me at mehulpamale@gmail.com
 
